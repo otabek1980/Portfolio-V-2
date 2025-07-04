@@ -15,3 +15,6 @@ Ushbu loyiha mening shaxsiy portfolio veb-saytim bo'lib, unda mening ko'nikmalar
 - **Skills**: Ko'nikmalar, men egallagan ko;nikmalar ro'yhati va egallagan foizim.
 - **Projects**: Loyihalar, men ishlagan loyihalarimdan namunalar.
 - **Contact**: Konntak, men bilan aloqaga chiqshlari uchun shaxsiy raqamim va elektron pochtam, bundan tashqari ijtimoiy tarmoqlarim.
+
+
+- *Saytni ko'rrish: https://vocal-bavarois-a2629c.netlify.app/*
